@@ -12,7 +12,7 @@ function find(mas, num){
             return index;
         }
 
-        if(start === stop || start > stop ) {
+        if(start === stop || start > stop) {
             return (-1);
         }
 
